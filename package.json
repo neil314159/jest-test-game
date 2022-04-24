@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/neil314159/jest-test-game/issues"
   },
-  "homepage": "https://github.com/neil314159/jest-test-game#readme"
+  "homepage": "https://github.com/neil314159/jest-test-game#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
